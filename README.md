@@ -1,4 +1,4 @@
 # Projetos-trybe
 
 Facebook-project
-[facebook-project](https://github.com/lfavila/Projetos-trybe/facebook-project)
+[facebook-project](https://lfavila.github.io/Projetos-trybe/facebook-project/)
